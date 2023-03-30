@@ -193,3 +193,16 @@ details {
 .imgagen_kanye_meme {
     width: 30vw;
 }
+
+#kanye_meme, #kanye_meme td, #kanye_meme tr {
+    background-color:#202020;
+    border-color: #181818; 
+    border-style: solid;
+    border-width: 2px;
+    border-radius:2px;
+    border-collapse: collapse;
+}
+
+.smallIcon {
+    width: 100%;
+}
