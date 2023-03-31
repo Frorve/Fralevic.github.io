@@ -64,6 +64,7 @@ table {
     border-width: 3px;
     border-color: #8899A6;
     background-color: #37474F;
+    height: 45vh;
 }
 
 th {
@@ -191,8 +192,9 @@ details {
 }
 
 .imgagen_kanye_meme {
-    width: 30vw;
+    width: 20vw;
 }
+
 
 #kanye_meme, #kanye_meme td, #kanye_meme tr {
     background-color:#202020;
